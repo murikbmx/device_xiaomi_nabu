@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-24.0",
+    "remote": "github"
+  },
+  {
+    "repository": "murikbmx/android_kernel_xiaomi_sm8150",
+    "target_path": "kernel/xiaomi/nabu",
+    "branch": "17.0-ksu",
+    "remote": "github"
+  },
+  {
+    "repository": "crdroidandroid/android_vendor_xiaomi_nabu",
+    "target_path": "vendor/xiaomi/nabu",
+    "branch": "17.0",
+    "remote": "gitlab"
+  }
+]
